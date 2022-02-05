@@ -1,13 +1,10 @@
 #EXTM3U
- 
-
-#EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="MEXICO",Aprende TV Mexico City
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-
+# Built on 1644078735
+#EXTINF:-1 tvg-name="NBA" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="NBA",NBA
+https://list.iptvcat.com/my_list/s/2e4ce353a1f9c26a048a66cc166fe1f6.m3u8
 
 #EXTINF:-1 group-title="NBA E WNBA" tvg-logo="https://images.app.goo.gl/PtwEii6Qg6Bg4Yns5", NBA HD 2
 https://list.iptvcat.com/my_list/s/2e4ce353a1f9c26a048a66cc166fe1f6.m3u8
-
 
 #EXTINF:-1 group-title="NBA E WNBA" tvg-logo="https://images.app.goo.gl/PtwEii6Qg6Bg4Yns5", ATLANTA HAWKS
 https://list.iptvcat.com/my_list/s/bf00ccc55a76c760331f6188c18ebeff.m3u8 
