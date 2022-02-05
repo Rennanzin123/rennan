@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="MLS" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="MLS CAMPEONATO AMERICANO",MLS 
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" group-title="Argentina",LN+ Ⓨ 
+https://youtu.be/ns8-5XKA0Ww #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="Australia",ABC https://c.mjh.nz/101002210221/ 
+
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="Australia",TVSN 
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+
+
 
 
 #EXTINF:-1 group-title="MLS CAMPEONATO AMERICANO", MLS 2
